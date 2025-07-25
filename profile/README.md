@@ -26,7 +26,7 @@ Semiautomatic tool for neuron counting, will automatically detect the coordinate
 
 Storage and manage the registration data of Undergraduate students in the lab.
 
-# Done:
+## Done:
 
 Nice Try, but you found noting except a faint ray light.
 
