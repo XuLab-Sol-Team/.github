@@ -22,9 +22,7 @@ A highly-integrated pipeline for data analysis for multi dimention time-sequence
 
 Semiautomatic tool for neuron counting, will automatically detect the coordinates of neurons in microscopy fluorescence image, while supports manually circle areas on the image and output the standard statistical data for further analysis.
 
-##To-Do:
-
-### Xu Lab Undergraduate Database
+### [Xu Lab Undergraduate Database](https://github.com/XuLab-Sol-Team/XuLab-Undergraduates)
 
 Storage and manage the registration data of Undergraduate students in the lab.
 
