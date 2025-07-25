@@ -2,7 +2,7 @@
 
 Our research program focuses on neural circuit mechanisms that underlie visual perception, learning and memory, and cognition.
 
-# DS&E Sol Team
+# Sol Team
 
 We develop and use the cool software & hardware for the research on neuroscience.
 
