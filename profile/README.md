@@ -22,10 +22,14 @@ A highly-integrated pipeline for data analysis for multi dimention time-sequence
 
 Semiautomatic tool for neuron counting, will automatically detect the coordinates of neurons in microscopy fluorescence image, while supports manually circle areas on the image and output the standard statistical data for further analysis.
 
-Done:
-
 To-Do:
 
 ## Xu Lab Undergraduate Database
 
 Storage and manage the registration data of Undergraduate students in the lab.
+
+Done:
+
+Nice Try, but you found noting except a faint ray light.
+
+![undertale_text_box.gif](assets/undertale_text_box.gif)
