@@ -1,2 +1,2 @@
 # .github
-README for the team
+README repo for XuLab Sol team
